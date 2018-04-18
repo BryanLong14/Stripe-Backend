@@ -1,6 +1,5 @@
-## Web App Kitchen Sink API
+## Stripe Annotations
 
-Annotated backend for [Web App Kitchen Sink](https://webappkitchensink.com).
 
 ### APIs
 
